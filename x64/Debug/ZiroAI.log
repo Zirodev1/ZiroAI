@@ -1,0 +1,13 @@
+﻿  example_usage.cpp
+  dataset.cpp
+  tokenizer.cpp
+  vocabulary.cpp
+  layers.cpp
+  utils.cpp
+  ziroai_model.cpp
+  dataset_test.cpp
+  model_test.cpp
+  tokenizer_test.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\zeroy\source\repos\ZiroAI\x64\Debug\ZiroAI.exe : fatal error LNK1120: 1 unresolved externals

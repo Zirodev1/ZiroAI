@@ -1,0 +1,3 @@
+C:/Users/zeroy/source/repos/ZiroAI/ZiroAI/out/build/x64-Debug/CMakeFiles/ziroai.dir
+C:/Users/zeroy/source/repos/ZiroAI/ZiroAI/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/zeroy/source/repos/ZiroAI/ZiroAI/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
